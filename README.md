@@ -1,3 +1,10 @@
+# Students
+
+Eliott FLECHTNER
+Maxime BARDOUIL
+Timothy PEARSON
+Félix BERTHIER
+
 # Subject 5 - Implement the Quantum Phase Estimation algorithm with MPQP
 
 **Difficulty:** 3/5
@@ -22,18 +29,18 @@ algorithm, measure the state, and retrieve the solution.
 
 ## Expected deliverables
 
-+ A function that prepares a QCircuit in the initial state
+- A function that prepares a QCircuit in the initial state
   $\ket{\phi_1} = \ket{+}^{\otimes n}\ket{\psi_a}$, supposing that we give you as
   input the circuit that prepares the eigenstate $\ket{\psi_a}$,
-+ A function that decompose an arbitrary Control-Unitary gate into a succession
+- A function that decompose an arbitrary Control-Unitary gate into a succession
   of usual gates (U_a, U(theta,phi,lambda), CNOT, CZ, SWAP, TOF, ...)
-+ A function that implements the successive control-Unitaries^(2^j) between the
+- A function that implements the successive control-Unitaries^(2^j) between the
   first and second register.
-+ An implementation of the Quantum Fourier Transform, especially its inverse (you
+- An implementation of the Quantum Fourier Transform, especially its inverse (you
   can have a look at the example in MPQP documentation website)
-+ A function that gets the counts of the measurements of the algorithm's circuit
+- A function that gets the counts of the measurements of the algorithm's circuit
   and post process it to return the approximation of the phase.
-+ A general algorithm regrouping all the pieces together, taking as input the
+- A general algorithm regrouping all the pieces together, taking as input the
   unitary $U_a$, its eigenstate $\ket{\psi_a}$ with the circuit that generates
   it, the number of qubit for the precision of the estimation, and that returns
   the approximation of the phase associated with the eigenvalue.
