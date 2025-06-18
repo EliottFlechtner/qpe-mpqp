@@ -2,7 +2,6 @@
 
 Eliott FLECHTNER
 Maxime BARDOUIL
-Timothy PEARSON
 Félix BERTHIER
 
 # Subject 5 - Implement the Quantum Phase Estimation algorithm with MPQP
