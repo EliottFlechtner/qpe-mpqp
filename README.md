@@ -6,8 +6,7 @@
 - Maxime BARDOUIL
 - Félix BERTHIER
 
-
-**Difficulty:** 3/5
+# Subject Description
 
 ## Introduction
 
