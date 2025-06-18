@@ -1,10 +1,11 @@
+# Subject 5 - Implement the Quantum Phase Estimation algorithm with MPQP
+
 # Students
 
-Eliott FLECHTNER
-Maxime BARDOUIL
-Félix BERTHIER
+- Eliott FLECHTNER
+- Maxime BARDOUIL
+- Félix BERTHIER
 
-# Subject 5 - Implement the Quantum Phase Estimation algorithm with MPQP
 
 **Difficulty:** 3/5
 
